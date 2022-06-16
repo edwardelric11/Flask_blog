@@ -21,3 +21,12 @@ Flask depends on the Jinja template engine and the Werkzeug WSGI toolkit.
 - Jinja - Jinja is a modern and designer-friendly templating language for Python, modelled after Django’s templates.
 
 - Werkzeug WSGI - Werkzeug is a comprehensive WSGI(Web Server Gateway Interface) web application library. 
+
+### Setup
+1. Install Python (3.6 or later).
+2. Install required packages
+  - `pip install flask flask_sqlalchemy flask_wtf flask_bcrypt flask_login flask_mail Pillow`
+
+### Running
+1. To start the server: python run.py runserver
+2. Then navigate to localhost:5000 on your browser
