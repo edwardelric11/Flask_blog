@@ -1,4 +1,4 @@
-Flask Blog is a Python Flask learning project which follows the tutorial of Corey Schafer on Youtube.
+Flask blog is a Python Flask learning project which follows the tutorial of Corey Schafer on Youtube.
 
 Features!
 
