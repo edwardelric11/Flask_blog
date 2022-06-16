@@ -25,7 +25,7 @@ Flask depends on the Jinja template engine and the Werkzeug WSGI toolkit.
 ### Setup
 1. Install Python (3.6 or later).
 2. Install required packages
- `pip install flask flask_sqlalchemy flask_wtf flask_bcrypt flask_login flask_mail Pillow`
+ - `pip install flask flask_sqlalchemy flask_wtf flask_bcrypt flask_login flask_mail Pillow`
 
 ### Running
 1. To start the server: `python3 run.py`
