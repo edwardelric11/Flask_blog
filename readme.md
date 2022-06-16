@@ -3,13 +3,13 @@ Flask blog is a Python Flask learning project which follows the tutorial of Core
 
 ## Features
 
-Blogspot website with multiple users
-Create, update and delete posts
-Unique id for each post and user
-Users can change their profile picture
-Gmail connection for password reset
-Structred with flask blueprint
-Custom error messages
+- Blogspot website with multiple users
+- Create, update and delete posts
+- Unique id for each post and user
+- Users can change their profile picture
+- Gmail connection for password reset
+- Structred with flask blueprint
+- Custom error messages
 
 ### Flask
 Flask is a micro web framework written in Python. 
