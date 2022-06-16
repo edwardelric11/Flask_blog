@@ -28,5 +28,5 @@ Flask depends on the Jinja template engine and the Werkzeug WSGI toolkit.
   - `pip install flask flask_sqlalchemy flask_wtf flask_bcrypt flask_login flask_mail Pillow`
 
 ### Running
-1. To start the server: python run.py runserver
-2. Then navigate to localhost:5000 on your browser
+1. To start the server: `python3 run.py`
+2. Then navigate to `localhost:5000` on your browser
